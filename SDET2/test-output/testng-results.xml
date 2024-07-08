@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-18T07:51:44Z" name="Default suite" finished-at="2024-02-18T07:52:10Z" duration-ms="26033">
+    <groups>
+    </groups>
+    <test started-at="2024-02-18T07:51:44Z" name="Default test" finished-at="2024-02-18T07:52:10Z" duration-ms="26033">
+      <class name="MavenDemo.SDET2.checkLoginFunc">
+        <test-method is-config="true" signature="initTect()[pri:0, instance:MavenDemo.SDET2.checkLoginFunc@3adcc812]" started-at="2024-02-18T07:51:45Z" name="initTect" finished-at="2024-02-18T07:51:52Z" duration-ms="6709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTect -->
+        <test-method signature="validateLoginFunc(java.lang.String, java.lang.String)[pri:0, instance:MavenDemo.SDET2.checkLoginFunc@3adcc812]" started-at="2024-02-18T07:51:52Z" name="validateLoginFunc" data-provider="supplyData" finished-at="2024-02-18T07:51:52Z" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr551627]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AtagerA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFunc -->
+        <test-method is-config="true" signature="clearTest()[pri:0, instance:MavenDemo.SDET2.checkLoginFunc@3adcc812]" started-at="2024-02-18T07:51:52Z" name="clearTest" finished-at="2024-02-18T07:51:52Z" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearTest -->
+        <test-method is-config="true" signature="initTect()[pri:0, instance:MavenDemo.SDET2.checkLoginFunc@3adcc812]" started-at="2024-02-18T07:51:52Z" name="initTect" finished-at="2024-02-18T07:51:57Z" duration-ms="5170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTect -->
+        <test-method signature="validateLoginFunc(java.lang.String, java.lang.String)[pri:0, instance:MavenDemo.SDET2.checkLoginFunc@3adcc812]" started-at="2024-02-18T07:51:57Z" name="validateLoginFunc" data-provider="supplyData" finished-at="2024-02-18T07:51:57Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hcl]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[HCLTECH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFunc -->
+        <test-method is-config="true" signature="clearTest()[pri:0, instance:MavenDemo.SDET2.checkLoginFunc@3adcc812]" started-at="2024-02-18T07:51:57Z" name="clearTest" finished-at="2024-02-18T07:51:57Z" duration-ms="289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearTest -->
+        <test-method is-config="true" signature="initTect()[pri:0, instance:MavenDemo.SDET2.checkLoginFunc@3adcc812]" started-at="2024-02-18T07:51:57Z" name="initTect" finished-at="2024-02-18T07:52:02Z" duration-ms="4872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTect -->
+        <test-method signature="validateLoginFunc(java.lang.String, java.lang.String)[pri:0, instance:MavenDemo.SDET2.checkLoginFunc@3adcc812]" started-at="2024-02-18T07:52:02Z" name="validateLoginFunc" data-provider="supplyData" finished-at="2024-02-18T07:52:02Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HCL]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amit123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFunc -->
+        <test-method is-config="true" signature="clearTest()[pri:0, instance:MavenDemo.SDET2.checkLoginFunc@3adcc812]" started-at="2024-02-18T07:52:02Z" name="clearTest" finished-at="2024-02-18T07:52:03Z" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearTest -->
+        <test-method is-config="true" signature="initTect()[pri:0, instance:MavenDemo.SDET2.checkLoginFunc@3adcc812]" started-at="2024-02-18T07:52:03Z" name="initTect" finished-at="2024-02-18T07:52:10Z" duration-ms="6996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTect -->
+        <test-method signature="validateLoginFunc(java.lang.String, java.lang.String)[pri:0, instance:MavenDemo.SDET2.checkLoginFunc@3adcc812]" started-at="2024-02-18T07:52:10Z" name="validateLoginFunc" data-provider="supplyData" finished-at="2024-02-18T07:52:10Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[umang]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[HCLTECH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFunc -->
+        <test-method is-config="true" signature="clearTest()[pri:0, instance:MavenDemo.SDET2.checkLoginFunc@3adcc812]" started-at="2024-02-18T07:52:10Z" name="clearTest" finished-at="2024-02-18T07:52:10Z" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearTest -->
+      </class> <!-- MavenDemo.SDET2.checkLoginFunc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
